@@ -1,4 +1,4 @@
-##Splunk Enterprise must enforce the limit of three consecutive invalid logon attempts by a user during a 15-minute time period
+## Splunk Enterprise must enforce the limit of three consecutive invalid logon attempts by a user during a 15-minute time period
 
 # Information
 
