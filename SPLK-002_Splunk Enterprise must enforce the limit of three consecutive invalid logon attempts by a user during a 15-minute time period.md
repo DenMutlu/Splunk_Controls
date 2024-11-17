@@ -1,3 +1,5 @@
+##Splunk Enterprise must enforce the limit of three consecutive invalid logon attempts by a user during a 15-minute time period
+
 # Information
 
 By limiting the number of failed login attempts, the risk of unauthorized system access via user password guessing, otherwise known as brute forcing, is reduced. Limits are imposed by locking the account.
