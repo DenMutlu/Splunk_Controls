@@ -1,3 +1,5 @@
+## Splunk Enterprise idle session timeout must be set to not exceed 15 minutes
+
 # Information
 
 Automatic session termination after a period of inactivity addresses the potential for a malicious actor to exploit the unattended session. Closing any unattended sessions reduces the attack surface to the application.
