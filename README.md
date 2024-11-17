@@ -9,6 +9,7 @@ A Security Technical Implementation Guide or STIG is a configuration standard co
 ## Sources: 
 
 - [Official Best practices guide](https://docs.splunk.com/Documentation/MSApp/2.0.4/MSInfra/Bestpracticesguide)
+- [Design principles and best practices for deployment tiers](https://docs.splunk.com/Documentation/SVA/current/Architectures/Principles)
 - [Stigviewer.com](https://www.stigviewer.com/stig/splunk_enterprise_8.xlinux/)
 - [Stig DoD](https://public.cyber.mil/stigs/)
 
