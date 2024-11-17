@@ -13,5 +13,5 @@ A Security Technical Implementation Guide or STIG is a configuration standard co
 - [Stigviewer.com](https://www.stigviewer.com/stig/splunk_enterprise_8.xlinux/)
 - [Stig DoD](https://public.cyber.mil/stigs/)
 
-## Version : Splunk Enterprise 8.x for Linux Operating System Controls
+ Version : Splunk Enterprise 8.x for Linux Operating System Controls
 
